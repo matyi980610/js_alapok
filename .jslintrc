@@ -1,0 +1,7 @@
+{
+    "devel": true,
+    "esnext": true,
+    "node": true,
+    "browser": true,
+    "jquery": true,
+}
